@@ -1,0 +1,12 @@
+C:\Users\tempest\Desktop\c#\Project 6\Project 6\bin\Debug\Project 6.exe.config
+C:\Users\tempest\Desktop\c#\Project 6\Project 6\bin\Debug\Project 6.exe
+C:\Users\tempest\Desktop\c#\Project 6\Project 6\bin\Debug\Project 6.pdb
+C:\Users\tempest\Desktop\c#\Project 6\Project 6\obj\Debug\Project 6.csprojResolveAssemblyReference.cache
+C:\Users\tempest\Desktop\c#\Project 6\Project 6\obj\Debug\Project_6.rockPaperScissor.resources
+C:\Users\tempest\Desktop\c#\Project 6\Project 6\obj\Debug\Project_6.Properties.Resources.resources
+C:\Users\tempest\Desktop\c#\Project 6\Project 6\obj\Debug\Project 6.csproj.GenerateResource.Cache
+C:\Users\tempest\Desktop\c#\Project 6\Project 6\obj\Debug\Project 6.exe
+C:\Users\tempest\Desktop\c#\Project 6\Project 6\obj\Debug\Project 6.pdb
+C:\Users\tempest\Desktop\c#\Project 5\Project 6\bin\Debug\Project 6.exe.config
+C:\Users\tempest\Desktop\c#\Project 5\Project 6\obj\Debug\Project 6.exe
+C:\Users\tempest\Desktop\c#\Project 5\Project 6\obj\Debug\Project 6.pdb
