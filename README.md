@@ -1,5 +1,5 @@
 # Paper Scissor Rock Application
-C# application using random number generation to create a game
+C# application using random number generation to create a game.
 Completed 2017
 
 ## Program Requirements
